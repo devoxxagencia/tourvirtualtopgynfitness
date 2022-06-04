@@ -30,11 +30,13 @@ panorama_2761A4D4_2B26_B750_41B5_B1ED11B095E5.label = Aeréa - Top Gyn Fitness
 ## Action
 
 ### URL
-LinkBehaviour_342212C7_2D29_B3B0_41A2_4B6DCB01F921.source = https://www.instagram.com/vempratopfitness/
-LinkBehaviour_3425D960_2DDA_B170_41B3_AD78A1315762.source = https://devoxxagencia.com.br/
-LinkBehaviour_3428A0D3_2DE6_AF50_41BA_BA78865542E6.source = https://api.whatsapp.com/send?phone=556295689939&text=Ol%C3%A1%2C%20estava%20assistindo%20o%20seu%20Tour%20Virtual%2C%20gostei%20da%20academia%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es.
-LinkBehaviour_342A60D9_2DE6_AF50_41BE_2A263693B8D1.source = https://www.google.com/maps/place/Academia+Top+Gyn+Fitness/@-16.753052,-49.4433529,13z/data=!4m9!1m2!2m1!1sacademia+top+gyn+fitness!3m5!1s0x935e591f55e66825:0x488c7273708702b!8m2!3d-16.753052!4d-49.3774349!15sChhhY2FkZW1pYSB0b3AgZ3luIGZpdG5lc3OSAQ5maXRuZXNzX2NlbnRlcg
-LinkBehaviour_342B90DA_2DE6_AF50_41C5_0F535120C6A6.source = https://www.instagram.com/vempratopfitness/
+LinkBehaviour_345AB2B5_2D2A_F3D0_41A5_F6D4EC8E52E5.source = https://devoxxagencia.com.br/
+LinkBehaviour_35CE4845_2D2A_5EB0_41BE_DDC51B44F081.source = https://www.instagram.com/vempratopfitness/
+LinkBehaviour_368E2C24_2D5A_D6F0_41C1_09EDAEB15053.source = https://devoxxagencia.com.br/
+LinkBehaviour_368E3C19_2D5A_D6D0_41C4_8E33EDCE7D3F.source = https://api.whatsapp.com/send?phone=556295689939&text=Ol%C3%A1%2C%20estava%20assistindo%20o%20seu%20Tour%20Virtual%2C%20gostei%20da%20academia%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es.
+LinkBehaviour_368F0C1A_2D5A_D6D0_41BB_895DCD6DB785.source = https://www.google.com/maps/place/Academia+Top+Gyn+Fitness/@-16.753052,-49.4433529,13z/data=!4m9!1m2!2m1!1sacademia+top+gyn+fitness!3m5!1s0x935e591f55e66825:0x488c7273708702b!8m2!3d-16.753052!4d-49.3774349!15sChhhY2FkZW1pYSB0b3AgZ3luIGZpdG5lc3OSAQ5maXRuZXNzX2NlbnRlcg
+LinkBehaviour_368F5C1B_2D5A_D6D0_41A1_C0F1F42697E6.source = https://www.instagram.com/vempratopfitness/
+LinkBehaviour_3690FC21_2D5A_D6F0_41C3_31261E8E8958.source = https://www.instagram.com/vempratopfitness/
 LinkBehaviour_382EDAB4_2B6E_73D0_41B3_9469D8CE843B.source = https://www.instagram.com/vempratopfitness/
 LinkBehaviour_39F39C7C_2B6A_7750_418A_5977E7E65064.source = https://api.whatsapp.com/send?phone=556295689939&text=Ol%C3%A1%2C%20estava%20assistindo%20o%20seu%20Tour%20Virtual%2C%20gostei%20da%20academia%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es.
 LinkBehaviour_3B599F19_2D39_B2D0_41C2_7B1636897941.source = https://www.google.com/maps/place/Academia+Top+Gyn+Fitness/@-16.753052,-49.4433529,13z/data=!4m9!1m2!2m1!1sacademia+top+gyn+fitness!3m5!1s0x935e591f55e66825:0x488c7273708702b!8m2!3d-16.753052!4d-49.3774349!15sChhhY2FkZW1pYSB0b3AgZ3luIGZpdG5lc3OSAQ5maXRuZXNzX2NlbnRlcg
