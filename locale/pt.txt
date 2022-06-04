@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = Academia Top Gyn Fitness - Tour Virtual 360º
+tour.name = Scarlath Sued Centro De Estética - Tour Virtual 360º
 
 ## Skin
 
@@ -20,23 +20,27 @@ Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD_mobile.label = LOCALIZAÇÃO
 ## Media
 
 ### Title
-panorama_21931D41_2B26_B6B0_4182_E775739F1BE5.label = ENTRADA 01 (1)
-panorama_2194C35B_2B26_B150_41A9_F8BB29DCB384.label = RECEPÇÃO
-panorama_219707AC_2B26_F1F0_41AC_151937673179.label = INTERNA 02
-panorama_21973A56_2B26_D350_41B7_347666EB0668.label = INTERNA 01
-panorama_21975563_2B26_D170_41A8_98C9A64D6698.label = INTERNA 03
-panorama_2761A4D4_2B26_B750_41B5_B1ED11B095E5.label = Aeréa - Top Gyn Fitness
+panorama_26A435F3_2CF8_EFC0_4174_BC7EBFC87D2A.label = IMG_20220530_091104_00_merged
+panorama_26A5788F_2CF8_E440_41B6_6151EE0CEF69.label = IMG_20220530_085452_00_merged
+panorama_26AEF279_2CF8_A4C0_4195_1AE9E0660188.label = IMG_20220530_092247_00_merged
+panorama_27A82060_2CF8_E4C0_41B6_73CF29AAA1A2.label = Aeréa - Scarlath Estética-SharpenAI
+video_3D838787_2CF8_AC40_41B0_C4F0355DCD9A.label = WhatsApp Video 2022-05-30 at 20.38.29
+video_3E301657_2D0B_6CC0_41A1_01B6124E7EA0.label = WhatsApp Video 2022-05-30 at 20.38.27
+
+## Popup
+
+### Body
+htmlText_3D2EFF54_2D56_FE4D_41A3_9EC4F2736282.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;">A radiofrequência é um tratamento estético utilizado no combate à flacidez do rosto ou do corpo, sendo muito eficaz para eliminar rugas, linhas de expressão e até mesmo a gordura localizada e também a celulite, sendo um método seguro com efeitos duradouros.<BR/></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;">O aparelho de radiofrequência eleva a temperatura da pele e do músculo, promovendo a contração do colágeno e favorecendo a produção de mais fibras de colágeno e elastina, dando mais sustentação e firmeza à pele. Os resultados podem ser observados nos</SPAN><SPAN STYLE="font-size:13px;"> primeiros dias logo após a primeira sessão e o resultado é progressivo, e por isso, quantos mais sessões, a pessoa fizer, maiores e melhores serão os resultados.</SPAN></SPAN></DIV></BODY></HTML></div>
 
 ## Action
 
 ### URL
 LinkBehaviour_345AB2B5_2D2A_F3D0_41A5_F6D4EC8E52E5.source = https://devoxxagencia.com.br/
-LinkBehaviour_35020A2C_2D66_B2F0_41BF_B5B54D9EEDC3.source = https://www.instagram.com/vempratopfitness/
-LinkBehaviour_35042A24_2D66_B2F0_419B_2B57C1C385AC.source = https://www.google.com/maps/place/Academia+Top+Gyn+Fitness/@-16.753052,-49.4433529,13z/data=!4m9!1m2!2m1!1sacademia+top+gyn+fitness!3m5!1s0x935e591f55e66825:0x488c7273708702b!8m2!3d-16.753052!4d-49.3774349!15sChhhY2FkZW1pYSB0b3AgZ3luIGZpdG5lc3OSAQ5maXRuZXNzX2NlbnRlcg
-LinkBehaviour_35045A25_2D66_B2F3_41BC_BB0169333F0E.source = https://www.instagram.com/vempratopfitness/
 LinkBehaviour_35046A2E_2D66_B2F0_418A_8C46C6E8FE68.source = https://devoxxagencia.com.br/
-LinkBehaviour_35057A22_2D66_B2F0_41C0_747830BBF82F.source = https://api.whatsapp.com/send?phone=556295689939&text=Ol%C3%A1%2C%20estava%20assistindo%20o%20seu%20Tour%20Virtual%2C%20gostei%20da%20academia%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es.
-LinkBehaviour_35CE4845_2D2A_5EB0_41BE_DDC51B44F081.source = https://www.instagram.com/vempratopfitness/
-LinkBehaviour_382EDAB4_2B6E_73D0_41B3_9469D8CE843B.source = https://www.instagram.com/vempratopfitness/
-LinkBehaviour_39F39C7C_2B6A_7750_418A_5977E7E65064.source = https://api.whatsapp.com/send?phone=556295689939&text=Ol%C3%A1%2C%20estava%20assistindo%20o%20seu%20Tour%20Virtual%2C%20gostei%20da%20academia%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es.
-LinkBehaviour_3B599F19_2D39_B2D0_41C2_7B1636897941.source = https://www.google.com/maps/place/Academia+Top+Gyn+Fitness/@-16.753052,-49.4433529,13z/data=!4m9!1m2!2m1!1sacademia+top+gyn+fitness!3m5!1s0x935e591f55e66825:0x488c7273708702b!8m2!3d-16.753052!4d-49.3774349!15sChhhY2FkZW1pYSB0b3AgZ3luIGZpdG5lc3OSAQ5maXRuZXNzX2NlbnRlcg
+LinkBehaviour_3970A29C_2D7E_A6FD_41C1_E8FAC62FDCE0.source = https://www.google.com/maps/place/Scarlath+Sued+centro+de+Est%C3%A9tica/@-16.8099705,-49.3498367,17z/data=!3m1!4b1!4m5!3m4!1s0x935ef9bb45e2c2a3:0x3edbe943f31d2b83!8m2!3d-16.8099705!4d-49.347648
+LinkBehaviour_399D175E_2D76_EE7C_4195_30701155124A.source = https://www.instagram.com/scarlathsuedcentrodeestetica/
+LinkBehaviour_39A2911D_2D7D_A3FC_41B5_56DA2D8014BF.source = https://api.whatsapp.com/send?phone=5562992103764&text=Oi%2C%20estava%20assistindo%20o%20seu%20Tour%20Virtual%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20seus%20procedimentos..
+LinkBehaviour_39FB54DD_2D7D_627C_419F_199B0D009CA8.source = https://www.instagram.com/scarlathsuedcentrodeestetica/
+LinkBehaviour_3E086F9D_2D7E_BEFF_41BB_3C6EFF17DECC.source = https://www.instagram.com/scarlathsuedcentrodeestetica/
+LinkBehaviour_3E78335D_2D72_A67F_41B4_EF54C20EDB40.source = https://www.google.com/maps/place/Scarlath+Sued+centro+de+Est%C3%A9tica/@-16.8099705,-49.3498367,17z/data=!3m1!4b1!4m5!3m4!1s0x935ef9bb45e2c2a3:0x3edbe943f31d2b83!8m2!3d-16.8099705!4d-49.347648
+LinkBehaviour_3ED5C82F_2D75_A1DC_41B8_2150DFF9E0C3.source = https://api.whatsapp.com/send?phone=5562992103764&text=Oi%2C%20estava%20assistindo%20o%20seu%20Tour%20Virtual%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20seus%20procedimentos..
