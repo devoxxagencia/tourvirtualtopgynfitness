@@ -1,8 +1,4 @@
 {
- "name": "Scarlath Sued Centro De Estética - Tour Virtual 360º",
- "start_url": "index.htm",
- "theme_color": "#CC00FF",
- "background_color": "#CC00FF",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "display": "fullscreen"
+ "name": "Academia Top Gyn Fitness - Tour Virtual 360º",
+ "start_url": "index.htm",
+ "theme_color": "#000000",
+ "display": "fullscreen",
+ "background_color": "#000000"
 }
