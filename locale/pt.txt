@@ -30,6 +30,8 @@ panorama_2761A4D4_2B26_B750_41B5_B1ED11B095E5.label = Aeréa - Top Gyn Fitness
 ## Action
 
 ### URL
+LinkBehaviour_342212C7_2D29_B3B0_41A2_4B6DCB01F921.source = https://www.instagram.com/vempratopfitness/
+LinkBehaviour_3425D960_2DDA_B170_41B3_AD78A1315762.source = https://devoxxagencia.com.br/
 LinkBehaviour_3428A0D3_2DE6_AF50_41BA_BA78865542E6.source = https://api.whatsapp.com/send?phone=556295689939&text=Ol%C3%A1%2C%20estava%20assistindo%20o%20seu%20Tour%20Virtual%2C%20gostei%20da%20academia%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es.
 LinkBehaviour_342A60D9_2DE6_AF50_41BE_2A263693B8D1.source = https://www.google.com/maps/place/Academia+Top+Gyn+Fitness/@-16.753052,-49.4433529,13z/data=!4m9!1m2!2m1!1sacademia+top+gyn+fitness!3m5!1s0x935e591f55e66825:0x488c7273708702b!8m2!3d-16.753052!4d-49.3774349!15sChhhY2FkZW1pYSB0b3AgZ3luIGZpdG5lc3OSAQ5maXRuZXNzX2NlbnRlcg
 LinkBehaviour_342B90DA_2DE6_AF50_41C5_0F535120C6A6.source = https://www.instagram.com/vempratopfitness/
